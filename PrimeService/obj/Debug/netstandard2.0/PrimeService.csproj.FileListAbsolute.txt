@@ -1,0 +1,9 @@
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService/bin/Debug/netstandard2.0/PrimeService.deps.json
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService/bin/Debug/netstandard2.0/PrimeService.dll
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService/bin/Debug/netstandard2.0/PrimeService.pdb
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService/obj/Debug/netstandard2.0/PrimeService.csprojAssemblyReference.cache
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService/obj/Debug/netstandard2.0/PrimeService.csproj.CoreCompileInputs.cache
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfoInputs.cache
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfo.cs
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService/obj/Debug/netstandard2.0/PrimeService.dll
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService/obj/Debug/netstandard2.0/PrimeService.pdb

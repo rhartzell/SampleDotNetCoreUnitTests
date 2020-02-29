@@ -1,0 +1,17 @@
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.2/PrimeService.Tests.deps.json
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.2/PrimeService.Tests.runtimeconfig.json
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.2/PrimeService.Tests.runtimeconfig.dev.json
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.2/PrimeService.Tests.dll
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.2/PrimeService.Tests.pdb
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.2/PrimeService.dll
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService.Tests/bin/Debug/netcoreapp2.2/PrimeService.pdb
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService.Tests/obj/Debug/netcoreapp2.2/PrimeService.Tests.csprojAssemblyReference.cache
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService.Tests/obj/Debug/netcoreapp2.2/PrimeService.Tests.csproj.CoreCompileInputs.cache
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService.Tests/obj/Debug/netcoreapp2.2/PrimeService.Tests.AssemblyInfoInputs.cache
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService.Tests/obj/Debug/netcoreapp2.2/PrimeService.Tests.AssemblyInfo.cs
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService.Tests/obj/Debug/netcoreapp2.2/PrimeService.Tests.csproj.CopyComplete
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService.Tests/obj/Debug/netcoreapp2.2/PrimeService.Tests.dll
+/Users/rhartzell/Projects/unit-testing-using-dotnet-test/PrimeService.Tests/obj/Debug/netcoreapp2.2/PrimeService.Tests.pdb
